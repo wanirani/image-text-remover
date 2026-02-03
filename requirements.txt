@@ -4,3 +4,5 @@ opencv-python-headless
 numpy
 pillow
 python-pptx
+torch
+torchvision
